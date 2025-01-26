@@ -1,2 +1,1 @@
 # Vineet.github.io
-gu
