@@ -180,7 +180,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: slategray;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(welcome-vineet.png)no-repeat;
+    background:url('welcome-vineet.png')no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
